@@ -1,0 +1,6 @@
+1. Create MySQL database: vehicle_service_db
+2. Set your MySQL password in src/main/resources/application.properties
+3. Import as Maven project
+4. Run VehicleServiceManagementApplication
+5. API base URL: http://localhost:9092
+6. Import the Postman collection from postman/
