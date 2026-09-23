@@ -45,7 +45,7 @@ DELETE `/api/services/{id}`
 ## Demo User
 Name: Vandita Yadav
 Email: vandita.yadav@example.com
-Password: Vandita@123
+
 
 The password is hashed with BCrypt before storage.
 
